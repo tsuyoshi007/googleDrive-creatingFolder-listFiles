@@ -36,7 +36,7 @@ npm install
 ## Running
 
 ```bash
-node start
+npm start
 ```
 
 ## Built With
